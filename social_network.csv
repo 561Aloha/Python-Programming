@@ -1,0 +1,7 @@
+Username,Full Name,Friends
+alice,Alice Smith,maria,joe,john
+maria,Maria Cortez,alice,joe,david
+joe,Joseph Adams,maria,eve,alice
+eve,Evelyn Cooper,joe
+david,David Benson,maria
+john,John Doe,alice
